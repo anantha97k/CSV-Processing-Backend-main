@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
+.env
+
+*.db
+
+.vscode/
+
+uv.lock
+
+FINDINGS.md
+
+YoPrint Laravel Coding Project Spec.pdf
